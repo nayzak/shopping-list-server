@@ -1,0 +1,6 @@
+package: github.com/nayzak/shopping-list-server
+import:
+- package: github.com/gin-gonic/gin
+- package: github.com/manyminds/api2go
+- package: github.com/unrolled/render
+- package: gopkg.in/mgo.v2
