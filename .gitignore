@@ -27,3 +27,4 @@ _testmain.go
 /vendor
 .DS_Store
 .env
+gin-bin
