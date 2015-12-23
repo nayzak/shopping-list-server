@@ -4,3 +4,4 @@ import:
 - package: github.com/manyminds/api2go
 - package: github.com/unrolled/render
 - package: gopkg.in/mgo.v2
+- package: github.com/joho/godotenv

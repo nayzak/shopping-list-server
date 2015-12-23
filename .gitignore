@@ -26,3 +26,4 @@ _testmain.go
 # Custom
 /vendor
 .DS_Store
+.env

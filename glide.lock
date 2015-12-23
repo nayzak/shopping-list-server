@@ -1,5 +1,5 @@
-hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-updated: 2015-12-21T16:32:26.28310276+10:00
+hash: 3cda1bf30b03b54a4f390430a2321c665fb17bbbbc0d457b206b590b19393143
+updated: 2015-12-23T11:54:11.246497853+10:00
 imports:
 - name: github.com/dustin/go-broadcast
   version: 3bdf6d4a7164a50bc19d5f230e2981d87d2584f1
@@ -7,6 +7,8 @@ imports:
   version: 8c0e57904488c554ab26caec525db5c92b23f051
 - name: github.com/gin-gonic/gin
   version: 52fcc5dbf6e94df33ad313858fb94b713e9d1b4a
+- name: github.com/joho/godotenv
+  version: 4ed13390c0acd2ff4e371e64d8b97c8954138243
 - name: github.com/julienschmidt/httprouter
   version: f30ab90cccbd5171771d26b6557d3c2f49e047a6
 - name: github.com/manucorporat/sse
@@ -37,5 +39,4 @@ imports:
   version: e30de8ac9ae3b30df7065f766c71f88bba7d4e49
 - name: gopkg.in/tomb.v2
   version: 14b3d72120e8d10ea6e6b7f87f7175734b1faab8
-  repo: https://gopkg.in/tomb.v2
 devImports: []
